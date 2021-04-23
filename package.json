@@ -1,7 +1,7 @@
 {
   "name": "movie_search_app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://cameron-poehner.github.io/movie_search_app",
   "dependencies": {
     "@jamesives/github-pages-deploy-action": "^4.1.1",
