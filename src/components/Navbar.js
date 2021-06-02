@@ -150,12 +150,14 @@ export default function PrimarySearchAppBar() {
       open={isMobileMenuOpen}
       onClose={handleMobileMenuClose}
     >
-      <MenuItem>
+      {// Future Feature Implementation}//
+}
+      {/* <MenuItem>
         <IconButton aria-label="show 4 new mails" color="inherit">
             <LocalMoviesIcon />
         </IconButton>
         <p>About</p>
-      </MenuItem>
+      </MenuItem> */}
       {/* <MenuItem onClick={handleProfileMenuOpen}>
         <IconButton
           aria-label="account of current user"
@@ -197,9 +199,12 @@ export default function PrimarySearchAppBar() {
           <div className={classes.grow} />
           <div className={classes.sectionDesktop}>
 
-            <IconButton aria-label="show 17 new notifications" color="inherit">
+            {// Future Feature Implementation}
+}
+
+            {/* <IconButton aria-label="show 17 new notifications" color="inherit">
                 About
-            </IconButton>
+            </IconButton> */}
             {/* <IconButton
               edge="end"
               aria-label="account of current user"
